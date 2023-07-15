@@ -1,13 +1,12 @@
-# Running sfc/dism
+# 🔘 Running sfc/dism
 
-1. Run command prompt as administrator.
+Run command prompt as administrator.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Press <code>Win+R</code>, then type <code>cmd.exe</code> and <strong>press Ctrl+Shift+Enter</strong>.</p></figcaption></figure>
 
-2. Run `sfc /scannow`.
+2. Run `sfc /scannow` and after it'll finish, run `dism /online /cleanup-image /restorehealth`.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Type <code>sfc /scannow</code> and press Enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sfcdism.png" alt=""><figcaption><p>That's how command prompt should look after both sfc and dism finished.</p></figcaption></figure>
 
-3. After sfc will finish, run `dism /online /cleanup-image /restorehealth`.
-4. After dism will finish, reboot your PC.
+3. After dism will finish, reboot your PC.
 

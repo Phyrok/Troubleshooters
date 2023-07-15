@@ -1,4 +1,4 @@
-# The application was unable to start correctly (0xc0000005).
+# 🔘 The application was unable to start correctly (0xc0000005).
 
 <figure><img src="../.gitbook/assets/N8Zyr47.jpg" alt=""><figcaption></figcaption></figure>
 
