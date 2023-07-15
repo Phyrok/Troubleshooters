@@ -19,6 +19,5 @@
 
 ## 📓 Other
 
-* [High Packet loss](other/high-packet-loss.md)
 * [You're being reveiwed by moderators](other/youre-being-reveiwed-by-moderators.md)
 * [Running sfc/dism](other/running-sfc-dism.md)
