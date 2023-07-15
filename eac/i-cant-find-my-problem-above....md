@@ -1,0 +1,3 @@
+# 🤨 I can't find my problem above...
+
+Reach out to [#anti-cheat-help](https://discord.com/channels/303681520202285057/1023557300214050968) in [BattleBit Discord server](https://discord.com/battlebit) for assistance.
