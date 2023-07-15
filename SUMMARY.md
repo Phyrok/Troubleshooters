@@ -17,7 +17,8 @@
 
 * [The application was unable to start correctly (0xc0000005).](crashes/the-application-was-unable-to-start-correctly-0xc0000005-..md)
 
-## 📑 Other
+## 📓 Other
 
+* [High Packet loss](other/high-packet-loss.md)
 * [You're being reveiwed by moderators](other/youre-being-reveiwed-by-moderators.md)
 * [Running sfc/dism](other/running-sfc-dism.md)
