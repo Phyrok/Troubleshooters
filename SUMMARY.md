@@ -19,5 +19,5 @@
 
 ## 📑 Other
 
-* [🚨 You're being reveiwed by moderators](other/youre-being-reveiwed-by-moderators.md)
+* [🚨 Your account is being reviewed by moderators](other/your-account-is-being-reviewed-by-moderators.md)
 * [🔘 Running sfc/dism](other/running-sfc-dism.md)
