@@ -2,7 +2,7 @@
 
 1. Run command prompt as administrator.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Press <code>Win+R</code>, then type <code>cmd.exe</code> and <strong>press Ctrl+Shift+Enter</strong>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runcmd.png" alt=""><figcaption><p>Press <code>Win+R</code>, then type <code>cmd.exe</code> and <strong>press Ctrl+Shift+Enter</strong>.</p></figcaption></figure>
 
 2. Run `sfc /scannow` and after it'll finish, run `dism /online /cleanup-image /restorehealth`.
 
