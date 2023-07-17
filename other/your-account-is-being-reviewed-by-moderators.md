@@ -1,4 +1,4 @@
-# 🚨 Your account is being reviewed by moderators
+# 🔘 Your account is being reviewed by moderators
 
 <figure><img src="../.gitbook/assets/review.png" alt="" width="563"><figcaption></figcaption></figure>
 

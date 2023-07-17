@@ -13,5 +13,5 @@
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Right click on <code>EasyAntiCheat_EOS</code>.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Click on "Full Control" Allow checkbox under "ALL APPLICATION PACKAGES" group.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click on "Full Control" Allow checkbox under "ALL APPLICATION PACKAGES" group.</p></figcaption></figure>
 

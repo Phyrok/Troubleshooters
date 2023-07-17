@@ -15,3 +15,4 @@
 <figure><img src="../.gitbook/assets/BBR_Validation.gif" alt="" width="563"><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
 
 6. Change your IP by restarting modem/router or use private VPN/[Cloudflare WARP](https://1.1.1.1).
+7. Check recent windows updates - if there was some update and after it you started experience this issue, [roll it back](https://www.itechtics.com/rollback-windows-updates/).
