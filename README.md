@@ -1,7 +1,8 @@
 
 # Troubleshooters
 
-We are a small group/team of indivuals who look to create fixes for the common and uncommon fixes for BATTLEBIT REMASTERED.
+We are a small group/team of indivuals who look to create fixes for the common and uncommon problems that occure in BATTLEBIT REMASTERED.
+
 
 ---
 
