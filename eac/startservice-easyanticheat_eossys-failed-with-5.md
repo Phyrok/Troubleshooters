@@ -1,4 +1,4 @@
-# 🔘 StartService EasyAntiCheat\_EOSSys failed with 5.
+# 🔘 StartService EasyAntiCheat\_EOSSys failed with 5
 
 <figure><img src="../.gitbook/assets/eossysfailedwith5.png" alt="" width="398"><figcaption></figcaption></figure>
 

@@ -1,4 +1,4 @@
-# 🔘 You were kicked by anti cheat. Make sure...
+# 🔘 You were kicked by anti cheat
 
 <figure><img src="../.gitbook/assets/ackicked.png" alt="" width="563"><figcaption></figcaption></figure>
 

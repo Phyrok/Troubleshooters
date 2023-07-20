@@ -1,4 +1,4 @@
-# 🔘 Launch Error - Easy Anti-Cheat is not installed.
+# 🔘 Launch Error - Easy Anti-Cheat is not installed
 
 <figure><img src="../.gitbook/assets/eacnotinstalled.png" alt=""><figcaption></figcaption></figure>
 

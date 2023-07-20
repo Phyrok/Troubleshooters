@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
 
-# 🔘 Make sure you have installed EasyAntiCheat and run the game with it.
+# 🔘 Make sure you have installed EasyAntiCheat and run the game with it
 
 <details>
 
@@ -40,7 +40,7 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 2. Right click on executable and click "Run as administrator".
 
-<img src="../.gitbook/assets/runasadmin.png" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
+<img src="../.gitbook/assets/runasadmin.png" align="center" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
 
 </details>
 
