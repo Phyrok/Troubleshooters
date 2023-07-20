@@ -3,12 +3,12 @@
 <figure><img src="../.gitbook/assets/ackicked.png" alt="" width="563"><figcaption></figcaption></figure>
 
 1. if you using custom lang file - get rid of it and you're good to go.
-2. Make sure that you don't have EAC entries in hosts file (`etc/hosts` or  `C:\Windows\System32\drivers\etc\hosts`) which was needed for some games (Star Citizen as example).
+2. Make sure that you don't have EAC entries in hosts file (`etc/hosts` or `C:\Windows\System32\drivers\etc\hosts`) which was needed for some games (Star Citizen as example).
 3. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix) (download button).
 4. Ensure that absolutely **NOTHING** blocks EAC connection (antivirus/firewall/ISP).
 5. Delete `Certificates` folder in Installed Files/`EasyAntiCheat` folder and verify game files.
 
-<figure><img src="../.gitbook/assets/browse (1).png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/delete.png" alt="" width="464"><figcaption><p>Go to <code>EasyAntiCheat</code> folder and delete <code>Certificates</code> folder.</p></figcaption></figure>
 
