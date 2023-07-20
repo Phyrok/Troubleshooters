@@ -7,7 +7,7 @@ coverY: 0
 
 <details>
 
-<summary>Step 1 - Run the <a href="https://github.com/livingflore/BattleBitEACFix">EAC Fix batch</a> </summary>
+<summary>Step 1 - Run the <a href="https://github.com/livingflore/BattleBitEACFix">EAC Fix batch</a></summary>
 
 1. Go to [github repo](https://github.com/livingflore/BattleBitEACFix).
 2. Press ![](../.gitbook/assets/downloadbutton.svg) button.
@@ -22,9 +22,7 @@ coverY: 0
 
 Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as on screenshot below. If you can't see it - proceed with installation.
 
-<img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original">
-
-<img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
+<img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"> <img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
 </details>
 
@@ -40,7 +38,7 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 2. Right click on executable and click "Run as administrator".
 
-<img src="../.gitbook/assets/runasadmin.png" align="center" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
+<img src="../.gitbook/assets/runasadmin.png" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
 
 </details>
 
@@ -51,4 +49,3 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 You might experience some issues with connection and therefore EAC can't reach its servers. Try using [Cloudflare WARP](https://1.1.1.1) or any private VPN on this matter.
 
 </details>
-
