@@ -1,6 +1,9 @@
-# 🔘 Launch Error - Easy Anti-Cheat is not installed.
+---
+cover: ../.gitbook/assets/eacnotinstalled.png
+coverY: 115
+---
 
-<figure><img src="../.gitbook/assets/eacnotinstalled.png" alt=""><figcaption></figcaption></figure>
+# 🔘 Launch Error - Easy Anti-Cheat is not installed
 
 Run the ["Install & Repair Easy Anti Cheat"](https://i.imgur.com/466AXn8.png) launch option.
 

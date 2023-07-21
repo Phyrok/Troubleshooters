@@ -1,4 +1,4 @@
-# 🤨 I can't find my problem above...
+# 🤨 I can't find my problem above
 
 <figure><img src="../.gitbook/assets/ac-help.png" alt=""><figcaption></figcaption></figure>
 
