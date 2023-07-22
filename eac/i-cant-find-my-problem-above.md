@@ -14,6 +14,6 @@ When asking for help, please attach this:
    (`%appdata%\EasyAntiCheat`)
 3. loader.log (`%appdata%\EasyAntiCheat\43ed9a4620fa486994c0b368cce73b5d\315826d981f4480aa6155e32d71b0d3b)`
 4. player.log\
-   (`C:\Users%username%\AppData\LocalLow\BattleBitDevTeam\BattleBit\`)
+   (`C:\Users\%username%\AppData\LocalLow\BattleBitDevTeam\BattleBit\`)
 
 Use Win+R and paste needed path to get in a folder.

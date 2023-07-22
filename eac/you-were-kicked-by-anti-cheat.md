@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ackicked.png
-coverY: 268
+cover: ../.gitbook/assets/ackick.png
+coverY: -3.74785998472845
 ---
 
 # 🔘 You were kicked by anti cheat
