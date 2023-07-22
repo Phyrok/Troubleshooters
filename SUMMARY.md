@@ -24,3 +24,8 @@
 * [🔘 Running sfc/dism](other/running-sfc-dism.md)
 * [🔘 Saving all your keybinds in one file](other/saving-all-your-keybinds-in-one-file.md)
 * [💡 Contribute](other/contribute.md)
+
+***
+
+* [EULA](https://agreements.battlebit.cloud/eula.pdf)
+* [Privacy Policy](https://agreements.battlebit.cloud/okigames\_privacy\_notice.pdf)
