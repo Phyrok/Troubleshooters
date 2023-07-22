@@ -22,5 +22,5 @@
 
 * [🔘 Your account is being reviewed by moderators](other/your-account-is-being-reviewed-by-moderators.md)
 * [🔘 Running sfc/dism](other/running-sfc-dism.md)
-* [🔘 Loud audio in background](other/loud-audio-in-background.md)
 * [🔘 Saving all your keybinds in one file](other/saving-all-your-keybinds-in-one-file.md)
+* [💡 Contribute](other/contribute.md)

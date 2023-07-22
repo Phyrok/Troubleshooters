@@ -1,4 +1,5 @@
 ---
+description: Beside EAC, your connection can also cause this issue.
 cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
@@ -22,7 +23,7 @@ coverY: 0
 
 Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as on screenshot below. If you can't see it - proceed with installation.
 
-<img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"> <img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
+<img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
 </details>
 
@@ -46,6 +47,11 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 <summary>Step 4 - Connectivity issues</summary>
 
-You might experience some issues with connection and therefore EAC can't reach its servers. Try using [Cloudflare WARP](https://1.1.1.1) or any private VPN on this matter.
+This issue can happen when your connection unstable / Steam is down / you can't reach either EAC or BattleBit servers.
+
+1. Check Steam if you're in offline mode.
+2. Disable malware protection and firewall if you use third party antivirus (Kaspersky, Avast, etc)
+3. Try to use mobile hotspot instead of your main internet connection just to launch the game. If it happens that you don't have it, proceed to the next step.
+4. Use any **private** VPN or [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
 
 </details>
