@@ -1,3 +1,7 @@
+---
+description: This error usually means that game files are corrupted.
+---
+
 # 🔘 Unknown file version
 
 <figure><img src="../.gitbook/assets/unknownfileversion.png" alt=""><figcaption></figcaption></figure>

@@ -1,8 +1,12 @@
+---
+description: >-
+  ACCESS_VIOLATION - process tried to write to an area of memory that is
+  forbidden/inacessible.
+---
+
 # 🔘 The application was unable to start correctly (0xc0000005)
 
 <figure><img src="../.gitbook/assets/0xc0000005.jpg" alt=""><figcaption></figcaption></figure>
-
-This error code means access violation => could be anything.
 
 1. If you use third-party antivirus make sure it's not interfering with the game and add BattleBit and EAC folder to exclusions. If it won't help - delete it (especially trend micro).
 2. Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.

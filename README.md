@@ -4,6 +4,20 @@ description: >-
   face while playing BattleBit.
 cover: .gitbook/assets/troubleshoot.png
 coverY: 4
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # ⚙ BattleBit Troubleshooting Docs
