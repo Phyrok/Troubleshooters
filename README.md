@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome. The documentation's purpose is to help you with the issues you can
+  Welcome. This documentations purpose is to help you with the issues you can
   face while playing BattleBit.
 cover: .gitbook/assets/troubleshoot.png
 coverY: 4

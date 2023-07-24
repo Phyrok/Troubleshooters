@@ -1,10 +1,23 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🔘 Your account is being reviewed by moderators
 
 <figure><img src="../.gitbook/assets/review.png" alt="" width="563"><figcaption></figcaption></figure>
 
-To speed up your reviewing:
+**First of all - be patient, this can take up to a few hours.**&#x20;
 
-1. Go to [BattleBit Discord Server](https://discord.gg/battlebit)&#x20;
-2. Message [ModMail](https://discord.com/users/1095417078233698354)&#x20;
-3. Select "Ingame bans" category
-4. Explain your situation and attach your Steam ID (you can look it up [here](https://steamid.io/)).
+This is not a ban but a timeout and it may be lifted after a game moderator has reviewed your gameplay. There are multiple factors of why the system has timed you out, as well as abnormal amount of reports for specified reason. \
+\
+**This can happen again** even after your timeout gets lifted. We understand that this system isn't perfect and developers looking into improving it.
