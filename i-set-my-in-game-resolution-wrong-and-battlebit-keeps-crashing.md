@@ -1,6 +1,6 @@
-# I set my in-gam resolution wrong and battlebit keeps crashing
+# I set my in-game resolution wrong and battlebit keeps crashing
 
-Step 1: Press start on windows and In the search bar, type `%appdata%` and press enter
+Step 1: Press start on windows and in the search bar, type `%appdata%` and press enter
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
